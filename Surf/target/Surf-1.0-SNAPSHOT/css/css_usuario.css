@@ -1,0 +1,40 @@
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+
+.card-title {
+    font-size: 35px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 1rem;
+    color: black;
+}
+
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.mt-4 {
+    margin-top: 1.5rem;
+}
+
+.btn-modificar,
+.btn-cerrar {
+    width: 150px;
+    margin-top: 10px;
+}

@@ -47,3 +47,11 @@ La plataforma está diseñada para ser intuitiva y fácil de usar:
 3. **Añadir al Carrito**: Los productos o actividades seleccionados se añaden al carrito de compras.
 4. **Pago Seguro**: El proceso de pago se realiza de manera segura a través de la plataforma.
 5. **Gestión Administrativa**: Los administradores tienen acceso para gestionar el contenido del sitio, agregar nuevos productos, actividades o alojamientos.
+
+
+##  **Vista del proyecto**
+https://github.com/user-attachments/assets/98797f1c-b89e-4bd1-be3e-280ef58880d9
+
+
+
+

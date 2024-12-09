@@ -49,7 +49,10 @@ La plataforma está diseñada para ser intuitiva y fácil de usar:
 5. **Gestión Administrativa**: Los administradores tienen acceso para gestionar el contenido del sitio, agregar nuevos productos, actividades o alojamientos.
 
 
-https://github.com/user-attachments/assets/f98e5283-c13c-404d-879f-35ec9653261b
+
+
+https://github.com/user-attachments/assets/e9dc50bf-3e7d-45bc-84a8-339a06a374cc
+
 
 
 

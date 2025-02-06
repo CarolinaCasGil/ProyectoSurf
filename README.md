@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/e9dc50bf-3e7d-45bc-84a8-339a06a374cc
 
 
 
-##  **Vista del proyecto**
+## 📸 **Project Preview** 
 https://github.com/user-attachments/assets/cc2aed55-66aa-4074-a8fa-fc79e5177dd6
 
 
